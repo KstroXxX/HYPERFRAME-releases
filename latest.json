@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.0",
-    "notes":  "HYPERFRAME 1.0.0: ARGOS mais esperto, Minha conta, atualizacao automatica e cartao antes x depois.",
-    "pub_date":  "2026-11-12T03:20:19Z",
+    "version":  "1.0.1",
+    "notes":  "HYPERFRAME 1.0.1: corrige o relogio, login pelo navegador, app de instancia unica, nova tela de entrada e instalador mais limpo.",
+    "pub_date":  "2026-11-13T03:00:34Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSG5aTkZJaU5DRFNvTGtMT0RZRHdBT3hLSFAra1p4MEtEWXV0TmpTWVRmcVIreGgwYitqL2FCVFNXK2RDZ2ZzeWRyZDlsQXdNbzZydmNhd3BpZUxKdnFRMjNtdDV3U0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDUzNjE5CWZpbGU6SFlQRVJGUkFNRV8xLjAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjAKcXA0MUVvTjBsVGVmQ2FINEhmSm9rb0FmRUhVOUNLVEdSR0ltTCtqRkl4VzNGWXRCenlkdHBkVDdlM2ZncTFRd0VndGVkb3hqMit5cldyUlR4dE1YQUE9PQo=",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSG5aTkZJaU5DRFFHQXo5MkVBNkNBdWFvNmp1OGNkMVV2NGxPWUhJd2FibUI5ZXRheE9sdFMxVmdzRjZISGxRQmY2VjVTS3lLTlVHTkRvQWsvYW9iRVZlNmVjN0dDeVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM4ODM0CWZpbGU6SFlQRVJGUkFNRV8xLjAuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEKVHZMYnZMRS9xZ3JMcEk1NGM0R1h3ZmMzTklCVFV0U2tZYmZsMXVRTW14elg0bVFQb0g1MWZXMkQwWEdyTk95TU5qTUFOWGxjcUdiQ01BMXA2NktxQmc9PQo=",
                                              "url":  "https://github.com/KstroXxX/HYPERFRAME-releases/raw/main/HYPERFRAME-setup.exe"
                                          }
                   }
