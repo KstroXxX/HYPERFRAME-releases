@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.1",
-    "notes":  "HYPERFRAME 1.0.1: corrige o relogio, login pelo navegador, app de instancia unica, nova tela de entrada e instalador mais limpo.",
-    "pub_date":  "2026-11-13T03:00:34Z",
+    "version":  "1.0.2",
+    "notes":  "HYPERFRAME 1.0.2: desinstalar desfaz o que o app aplicou, avisos de atualizacao em portugues e correcoes.",
+    "pub_date":  "2026-11-17T08:20:01Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSG5aTkZJaU5DRFFHQXo5MkVBNkNBdWFvNmp1OGNkMVV2NGxPWUhJd2FibUI5ZXRheE9sdFMxVmdzRjZISGxRQmY2VjVTS3lLTlVHTkRvQWsvYW9iRVZlNmVjN0dDeVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM4ODM0CWZpbGU6SFlQRVJGUkFNRV8xLjAuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEKVHZMYnZMRS9xZ3JMcEk1NGM0R1h3ZmMzTklCVFV0U2tZYmZsMXVRTW14elg0bVFQb0g1MWZXMkQwWEdyTk95TU5qTUFOWGxjcUdiQ01BMXA2NktxQmc9PQo=",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSG5aTkZJaU5DRGRCZEN4UGR4WW1QaXBCZkhVU3JUNEw3c1RFak1Scks5VmVjUHlFZnp1TEI0RXJkZ29zTmEzNnFid0k2TmxQanNqTnRCQ3hNb0NVbnNSYlNNZmJjSEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAzNjAxCWZpbGU6SFlQRVJGUkFNRV8xLjAuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjIKYWF4ZU0xMWJYQjY4S1FNcEVONUxOa0pjRDZYVFQ2K29qemJuZDJ4cXArOXBpUjRxamNZMlkwdGFXakF4aFE0cG9iVHpPZDNwQzBxalVHT2dwTTR4QlE9PQo=",
                                              "url":  "https://github.com/KstroXxX/HYPERFRAME-releases/raw/main/HYPERFRAME-setup.exe"
                                          }
                   }
